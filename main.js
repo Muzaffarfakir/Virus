@@ -19,11 +19,11 @@ let cur = new Image();
 let ene1 = new Image();
 let ene2 = new Image();
 let ene3 = new Image();
-ene3.src = 'img/Enemy3.png';
-ene2.src = 'img/Enemy2.png';
-ene1.src = 'img/Enemy1.jpg';
-cur.src = 'img/c.png';
-mu.src = "music/shoot.mp3";
+ene3.src = 'Enemy3.png';
+ene2.src = 'Enemy2.png';
+ene1.src = 'Enemy1.jpg';
+cur.src = 'c.png';
+mu.src = "shoot.mp3";
 let mo = {
   x: undefined,
   y: undefined
